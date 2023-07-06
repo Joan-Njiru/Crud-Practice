@@ -1,0 +1,12 @@
+body{
+    
+    background-color: rgb(82, 177, 177);
+    
+}
+
+
+#inputTodo{
+border-radius: 2%;
+width: 40%;
+height: 30px;
+}
